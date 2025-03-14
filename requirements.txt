@@ -1,6 +1,4 @@
-random
-re
 streamlit
-datetime
-os
-json
+nltk
+scikit-learn
+pandas
